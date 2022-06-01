@@ -8,7 +8,7 @@ img {
 
 #mainbox {
   width: 10rem;
-  height: 50rem;
+  height: 55rem;
   float: left;
   margin: 10px;
   padding: 10px;
@@ -16,7 +16,7 @@ img {
 }
 #secondbox {
   width: 10rem;
-  height: 50rem;
+  height: 55rem;
   float: left;
   margin: 10px;
   padding: 10px;
@@ -24,7 +24,7 @@ img {
 }
 .box-img {
   width: 10rem;
-  height: 10rem;
+  height: 11rem;
   float: left;
   border: 1px solid black;
   text-align: center;
