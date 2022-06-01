@@ -27,7 +27,7 @@ function createImage() {
 
   randomIndexArray.forEach((index) => {
     var img = document.createElement("img");
-    img.setAttribute("src", "./img" + imgNameArray[index]);
+    img.setAttribute("src", imgNameArray[index]);
     img.setAttribute("draggable", "true");
     img.setAttribute("ondragstart", "drag(event)");
     img.setAttribute("id", "drag" + i);
